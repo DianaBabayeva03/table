@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table,th,td,tr{
+    width: 50%;
+    height: auto;
+    border: 1px solid black;
+}
+
+.abcd {
+    background-color: aqua;
+}
+
+.bcda {
+    background-color: yellow;
+}
